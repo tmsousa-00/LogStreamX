@@ -1,5 +1,7 @@
 # LogStreamX
-Este repositório contém o programa LogStreamX, desenvolvido em linguagem Python, que tem por objetivo simular um sistema de login, onde também podemos simular um ataque de fadiga MFA e efetuar a ingestão de logs em uma tabela personalizada do Log Analyticas, no ambiente do Microsoft Azure. 
+Este repositório contém o programa LogStreamX, desenvolvido em linguagem Python, que tem por objetivo simular um sistema de login.
+
+Nesse programa, podemos tambémm simular um ataque de fadiga MFA e efetuar a ingestão de logs em uma tabela personalizada do Log Analyticas, no ambiente do Microsoft Azure. 
 
 Após a ingestão de logs, consultas KQL podem ser executadas nos dados da tabela personalizada.
 
